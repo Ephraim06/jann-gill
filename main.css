@@ -246,6 +246,10 @@ nav {
         font-size: 12px !important;
     }
 
+    .agent-bio {
+        font-weight: 600;
+    }
+
     .row {
         width: 100% !important;
     }
